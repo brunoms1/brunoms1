@@ -1,4 +1,4 @@
-### Olá, meu nome é Bruno Mesquita👋
+### Bruno Mesquita👋
 
 <b> I Most Used</b>
  <div style="display: inline_block"><br>
