@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Bruno 👋
 
 - 🔭 Hoje eu trabalho na área financeira e utilizo python para automatizar processos na área.
 - 🌱 Estou estudando atualmente JavaScript e Docker.
